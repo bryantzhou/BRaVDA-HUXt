@@ -1,0 +1,704 @@
+------------------------------------------------------
+Window no. 1
+
+RMSE STEREO A MASMean = 151.48031544717264
+RMSE STEREO A Forecast = 157.03324718742792
+RMSE STEREO A Posterior= 132.79734129257346
+
+RMSE STEREO B MASMean = 167.0736462062069
+RMSE STEREO B Forecast = 171.0532950687452
+RMSE STEREO B Posterior= 144.22118903812262
+
+RMSE ACE MASMean = 141.3777620063025
+RMSE ACE Forecast = 152.61667315468756
+RMSE ACE Posterior= 46.188683537454175
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 2
+
+RMSE STEREO A MASMean = 174.72392931026005
+RMSE STEREO A Forecast = 188.41484880498248
+RMSE STEREO A Posterior= 117.23271935844296
+
+RMSE STEREO B MASMean = 171.73640175474057
+RMSE STEREO B Forecast = 181.69167236313112
+RMSE STEREO B Posterior= 116.79890112845581
+
+RMSE ACE MASMean = 148.57881967955734
+RMSE ACE Forecast = 137.6685442029275
+RMSE ACE Posterior= 48.85081987832875
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 3
+
+RMSE STEREO A MASMean = 138.9544457471245
+RMSE STEREO A Forecast = 134.4621899874949
+RMSE STEREO A Posterior= 113.35744690276867
+
+RMSE STEREO B MASMean = 140.57076951214808
+RMSE STEREO B Forecast = 132.39121735144508
+RMSE STEREO B Posterior= 118.65848197365492
+
+RMSE ACE MASMean = 114.99412440180241
+RMSE ACE Forecast = 178.74486162889264
+RMSE ACE Posterior= 49.08413762667996
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 4
+
+RMSE STEREO A MASMean = 155.52282091317673
+RMSE STEREO A Forecast = 214.91206848427777
+RMSE STEREO A Posterior= 132.25300421902202
+
+RMSE STEREO B MASMean = 145.2834354102529
+RMSE STEREO B Forecast = 210.19977709452934
+RMSE STEREO B Posterior= 131.29427695780842
+
+RMSE ACE MASMean = 114.63091939429398
+RMSE ACE Forecast = 130.91768566010182
+RMSE ACE Posterior= 51.79217514159645
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 5
+
+RMSE STEREO A MASMean = 142.64617373283875
+RMSE STEREO A Forecast = 163.84121530372008
+RMSE STEREO A Posterior= 115.38146126251556
+
+RMSE STEREO B MASMean = 126.29186686380322
+RMSE STEREO B Forecast = 145.66239631295136
+RMSE STEREO B Posterior= 98.06397618874395
+
+RMSE ACE MASMean = 132.39398269778047
+RMSE ACE Forecast = 142.95779924822844
+RMSE ACE Posterior= 49.99582083677015
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 6
+
+RMSE STEREO A MASMean = 130.1436808376684
+RMSE STEREO A Forecast = 144.77015120566742
+RMSE STEREO A Posterior= 102.85957960247175
+
+RMSE STEREO B MASMean = 109.13251218525832
+RMSE STEREO B Forecast = 133.23009072511604
+RMSE STEREO B Posterior= 110.64819971353512
+
+RMSE ACE MASMean = 123.80447620632842
+RMSE ACE Forecast = 142.29915260679272
+RMSE ACE Posterior= 47.054277637584235
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 7
+
+RMSE STEREO A MASMean = 119.24962102486612
+RMSE STEREO A Forecast = 125.86865865704252
+RMSE STEREO A Posterior= 107.77372971195878
+
+RMSE STEREO B MASMean = 113.85088360550901
+RMSE STEREO B Forecast = 125.56461724874544
+RMSE STEREO B Posterior= 116.95024286866507
+
+RMSE ACE MASMean = 126.27373769333725
+RMSE ACE Forecast = 156.1692043232639
+RMSE ACE Posterior= 33.70926914439795
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 8
+
+RMSE STEREO A MASMean = 108.86228233291534
+RMSE STEREO A Forecast = 144.44456126884148
+RMSE STEREO A Posterior= 100.77675336021932
+
+RMSE STEREO B MASMean = 94.69633498369684
+RMSE STEREO B Forecast = 122.91817825188127
+RMSE STEREO B Posterior= 106.3579597837354
+
+RMSE ACE MASMean = 135.33289972301463
+RMSE ACE Forecast = 183.1521120001643
+RMSE ACE Posterior= 54.941596902319226
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 9
+
+RMSE STEREO A MASMean = 133.71845669703495
+RMSE STEREO A Forecast = 198.60606582276043
+RMSE STEREO A Posterior= 124.19195626115739
+
+RMSE STEREO B MASMean = 143.41601300474957
+RMSE STEREO B Forecast = 191.46012932402635
+RMSE STEREO B Posterior= 92.61019252186838
+
+RMSE ACE MASMean = 137.92211152130147
+RMSE ACE Forecast = 173.2813322840507
+RMSE ACE Posterior= 48.36720360304999
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 10
+
+RMSE STEREO A MASMean = 154.58028809079065
+RMSE STEREO A Forecast = 193.55399928435753
+RMSE STEREO A Posterior= 82.58270142007905
+
+RMSE STEREO B MASMean = 157.35763585576206
+RMSE STEREO B Forecast = 192.38331848855947
+RMSE STEREO B Posterior= 94.25328093757193
+
+RMSE ACE MASMean = 130.22654265035627
+RMSE ACE Forecast = 129.81799112442727
+RMSE ACE Posterior= 53.234715487174604
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 11
+
+RMSE STEREO A MASMean = 138.04257328109324
+RMSE STEREO A Forecast = 177.16264960378666
+RMSE STEREO A Posterior= 115.79125006707704
+
+RMSE STEREO B MASMean = 143.0812183966313
+RMSE STEREO B Forecast = 155.36352644556627
+RMSE STEREO B Posterior= 114.92385798705176
+
+RMSE ACE MASMean = 161.53930718953004
+RMSE ACE Forecast = 161.97050390933623
+RMSE ACE Posterior= 69.02313093089737
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 12
+
+RMSE STEREO A MASMean = 160.77246991189355
+RMSE STEREO A Forecast = 162.3870276712443
+RMSE STEREO A Posterior= 101.53959244308949
+
+RMSE STEREO B MASMean = 167.4034813945276
+RMSE STEREO B Forecast = 158.75347441022262
+RMSE STEREO B Posterior= 100.07707897685971
+
+RMSE ACE MASMean = 159.4071486216182
+RMSE ACE Forecast = 161.03199333591007
+RMSE ACE Posterior= 71.92155037285835
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 13
+
+RMSE STEREO A MASMean = 169.09041158551247
+RMSE STEREO A Forecast = 192.59458443863298
+RMSE STEREO A Posterior= 127.96602641044342
+
+RMSE STEREO B MASMean = 182.15097332629458
+RMSE STEREO B Forecast = 208.25381119910705
+RMSE STEREO B Posterior= 117.32332495669318
+
+RMSE ACE MASMean = 176.18441451163415
+RMSE ACE Forecast = 177.04300696982534
+RMSE ACE Posterior= 90.99147310839842
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 14
+
+RMSE STEREO A MASMean = 166.44512961400497
+RMSE STEREO A Forecast = 177.9726319075675
+RMSE STEREO A Posterior= 142.6380629182992
+
+RMSE STEREO B MASMean = 166.16031377646024
+RMSE STEREO B Forecast = 173.24367171129424
+RMSE STEREO B Posterior= 114.77152212741994
+
+RMSE ACE MASMean = 121.9199948910478
+RMSE ACE Forecast = 190.2665344049908
+RMSE ACE Posterior= 48.603503045461814
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 15
+
+RMSE STEREO A MASMean = 117.35719028113391
+RMSE STEREO A Forecast = 209.46943755533306
+RMSE STEREO A Posterior= 101.16985638230652
+
+RMSE STEREO B MASMean = 125.8607003496644
+RMSE STEREO B Forecast = 201.42119356887702
+RMSE STEREO B Posterior= 108.71560592089659
+
+RMSE ACE MASMean = 133.4882436526024
+RMSE ACE Forecast = 168.37769234238638
+RMSE ACE Posterior= 77.31764258717209
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 16
+
+RMSE STEREO A MASMean = 162.30766522914243
+RMSE STEREO A Forecast = 173.96123343047435
+RMSE STEREO A Posterior= 137.05787582338345
+
+RMSE STEREO B MASMean = 141.86180312184842
+RMSE STEREO B Forecast = 182.03390277461799
+RMSE STEREO B Posterior= 108.65576863420516
+
+RMSE ACE MASMean = 124.32275915295715
+RMSE ACE Forecast = 147.9768135369769
+RMSE ACE Posterior= 41.736341551765946
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 17
+
+RMSE STEREO A MASMean = 155.33278228959605
+RMSE STEREO A Forecast = 175.61138483819357
+RMSE STEREO A Posterior= 108.76014622766058
+
+RMSE STEREO B MASMean = 162.85436897334787
+RMSE STEREO B Forecast = 200.68591425926778
+RMSE STEREO B Posterior= 113.57488509409453
+
+RMSE ACE MASMean = 139.1467701398778
+RMSE ACE Forecast = 146.12183360803868
+RMSE ACE Posterior= 69.31308945354151
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 18
+
+RMSE STEREO A MASMean = 119.391968399891
+RMSE STEREO A Forecast = 131.87594214061426
+RMSE STEREO A Posterior= 89.7718710332776
+
+RMSE STEREO B MASMean = 140.21474585180889
+RMSE STEREO B Forecast = 144.86461346196623
+RMSE STEREO B Posterior= 102.67196782699637
+
+RMSE ACE MASMean = 165.6151178113803
+RMSE ACE Forecast = 180.133436988855
+RMSE ACE Posterior= 54.97541881741756
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 19
+
+RMSE STEREO A MASMean = 163.30832649119168
+RMSE STEREO A Forecast = 185.75875092386713
+RMSE STEREO A Posterior= 84.15348910452872
+
+RMSE STEREO B MASMean = 200.38424626389397
+RMSE STEREO B Forecast = 211.19714039486203
+RMSE STEREO B Posterior= 95.07102984266872
+
+RMSE ACE MASMean = 171.44451048515523
+RMSE ACE Forecast = 200.44868059879062
+RMSE ACE Posterior= 42.710563293813635
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 20
+
+RMSE STEREO A MASMean = 204.77127850714982
+RMSE STEREO A Forecast = 231.5951297724675
+RMSE STEREO A Posterior= 76.56563068452725
+
+RMSE STEREO B MASMean = 201.44756669992864
+RMSE STEREO B Forecast = 224.97927775544605
+RMSE STEREO B Posterior= 75.35644906982235
+
+RMSE ACE MASMean = 152.03606690479663
+RMSE ACE Forecast = 144.91225300281837
+RMSE ACE Posterior= 45.17003753147597
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 21
+
+RMSE STEREO A MASMean = 214.3311475557952
+RMSE STEREO A Forecast = 214.22350286853344
+RMSE STEREO A Posterior= 85.72010085350881
+
+RMSE STEREO B MASMean = 212.57419151876297
+RMSE STEREO B Forecast = 208.38195397587845
+RMSE STEREO B Posterior= 75.60710120945228
+
+RMSE ACE MASMean = 121.43171706242386
+RMSE ACE Forecast = 134.76257148286481
+RMSE ACE Posterior= 33.833189428534126
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 22
+
+RMSE STEREO A MASMean = 154.03443851104174
+RMSE STEREO A Forecast = 192.54549853678478
+RMSE STEREO A Posterior= 77.85611446046725
+
+RMSE STEREO B MASMean = 135.9513953802299
+RMSE STEREO B Forecast = 169.74930845526765
+RMSE STEREO B Posterior= 76.96123685830187
+
+RMSE ACE MASMean = 145.26442100188333
+RMSE ACE Forecast = 163.00749100845076
+RMSE ACE Posterior= 57.06033690588605
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 23
+
+RMSE STEREO A MASMean = 177.31206349978004
+RMSE STEREO A Forecast = 191.5137423960997
+RMSE STEREO A Posterior= 105.9889553353825
+
+RMSE STEREO B MASMean = 179.7101333362709
+RMSE STEREO B Forecast = 164.12810383260987
+RMSE STEREO B Posterior= 102.81221321875233
+
+RMSE ACE MASMean = 142.11009908498943
+RMSE ACE Forecast = 175.0432254655575
+RMSE ACE Posterior= 57.31915436145976
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 24
+
+RMSE STEREO A MASMean = 175.58377106854354
+RMSE STEREO A Forecast = 233.70322546039472
+RMSE STEREO A Posterior= 91.17095761258174
+
+RMSE STEREO B MASMean = 164.7578235322584
+RMSE STEREO B Forecast = 201.14197759971492
+RMSE STEREO B Posterior= 63.95431203377461
+
+RMSE ACE MASMean = 105.54079285165173
+RMSE ACE Forecast = 141.2554318674506
+RMSE ACE Posterior= 40.72825664747498
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 25
+
+RMSE STEREO A MASMean = 144.0310655230246
+RMSE STEREO A Forecast = 174.8981089671333
+RMSE STEREO A Posterior= 64.30115106924457
+
+RMSE STEREO B MASMean = 159.17752065194404
+RMSE STEREO B Forecast = 180.8887573503455
+RMSE STEREO B Posterior= 74.78595716216176
+
+RMSE ACE MASMean = 91.67930727339669
+RMSE ACE Forecast = 79.18570137903573
+RMSE ACE Posterior= 39.97397698257466
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 26
+
+RMSE STEREO A MASMean = 117.40402983337235
+RMSE STEREO A Forecast = 113.37905246895178
+RMSE STEREO A Posterior= 54.47611676264338
+
+RMSE STEREO B MASMean = 123.8891961305747
+RMSE STEREO B Forecast = 124.79042392792819
+RMSE STEREO B Posterior= 56.28154412693459
+
+RMSE ACE MASMean = 108.66100306075397
+RMSE ACE Forecast = 112.52113815081849
+RMSE ACE Posterior= 54.69724545606908
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 27
+
+RMSE STEREO A MASMean = 99.11945107453711
+RMSE STEREO A Forecast = 103.65147533650537
+RMSE STEREO A Posterior= 87.9575503660849
+
+RMSE STEREO B MASMean = 105.4361414100774
+RMSE STEREO B Forecast = 114.8124311370573
+RMSE STEREO B Posterior= 61.26065769758661
+
+RMSE ACE MASMean = 74.81933242088927
+RMSE ACE Forecast = 129.44950598233206
+RMSE ACE Posterior= 44.6783722211474
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 28
+
+RMSE STEREO A MASMean = 98.98327512024981
+RMSE STEREO A Forecast = 155.94435728961255
+RMSE STEREO A Posterior= 75.3192816814256
+
+RMSE STEREO B MASMean = 89.52745046906284
+RMSE STEREO B Forecast = 156.14902556140788
+RMSE STEREO B Posterior= 88.07238202772412
+
+RMSE ACE MASMean = 116.09706704675187
+RMSE ACE Forecast = 126.65070547674073
+RMSE ACE Posterior= 47.872286539561145
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 29
+
+RMSE STEREO A MASMean = 148.39798187014622
+RMSE STEREO A Forecast = 139.0243581710075
+RMSE STEREO A Posterior= 92.2875634323368
+
+RMSE STEREO B MASMean = 125.03993420987017
+RMSE STEREO B Forecast = 128.3723890352499
+RMSE STEREO B Posterior= 85.23801214115791
+
+RMSE ACE MASMean = 116.27052419631129
+RMSE ACE Forecast = 184.11208236129787
+RMSE ACE Posterior= 45.271535023585784
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 30
+
+RMSE STEREO A MASMean = 167.25409960236297
+RMSE STEREO A Forecast = 207.54013422746482
+RMSE STEREO A Posterior= 97.79821480943455
+
+RMSE STEREO B MASMean = 123.00257126048582
+RMSE STEREO B Forecast = 201.01960126806145
+RMSE STEREO B Posterior= 81.82816406659863
+
+RMSE ACE MASMean = 77.42804742556885
+RMSE ACE Forecast = 107.36696027733721
+RMSE ACE Posterior= 34.123060208028505
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 31
+
+RMSE STEREO A MASMean = 90.542273520701
+RMSE STEREO A Forecast = 106.01994041984698
+RMSE STEREO A Posterior= 72.38819883737837
+
+RMSE STEREO B MASMean = 98.56391557283213
+RMSE STEREO B Forecast = 127.19440858702548
+RMSE STEREO B Posterior= 51.66246270260306
+
+RMSE ACE MASMean = 110.43487667865656
+RMSE ACE Forecast = 132.08069795223147
+RMSE ACE Posterior= 62.46025802407954
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 32
+
+RMSE STEREO A MASMean = 136.09321332285606
+RMSE STEREO A Forecast = 161.79503616789367
+RMSE STEREO A Posterior= 75.0289022763037
+
+RMSE STEREO B MASMean = 117.90089301823613
+RMSE STEREO B Forecast = 133.91777596325034
+RMSE STEREO B Posterior= 62.78452887725323
+
+RMSE ACE MASMean = 104.26731037065528
+RMSE ACE Forecast = 109.79210155663061
+RMSE ACE Posterior= 57.3348063304697
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 33
+
+RMSE STEREO A MASMean = 140.25171903629686
+RMSE STEREO A Forecast = 159.20764825841778
+RMSE STEREO A Posterior= 97.543690379915
+
+RMSE STEREO B MASMean = 139.87697673503538
+RMSE STEREO B Forecast = 144.8296275585716
+RMSE STEREO B Posterior= 80.52463003173486
+
+RMSE ACE MASMean = 93.2448405689065
+RMSE ACE Forecast = 110.8094390253768
+RMSE ACE Posterior= 62.615564583688624
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 34
+
+RMSE STEREO A MASMean = 118.32245134672112
+RMSE STEREO A Forecast = 118.47728957066823
+RMSE STEREO A Posterior= 74.44514707533708
+
+RMSE STEREO B MASMean = 113.5191138667304
+RMSE STEREO B Forecast = 118.84304197514518
+RMSE STEREO B Posterior= 68.0266373755751
+
+RMSE ACE MASMean = 129.5690790762386
+RMSE ACE Forecast = 212.3401952802498
+RMSE ACE Posterior= 40.189351644503226
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 35
+
+RMSE STEREO A MASMean = 162.39455936800732
+RMSE STEREO A Forecast = 239.16281168372177
+RMSE STEREO A Posterior= 65.20327258455865
+
+RMSE STEREO B MASMean = 164.09349584517267
+RMSE STEREO B Forecast = 249.44038447308412
+RMSE STEREO B Posterior= 62.63663631383033
+
+RMSE ACE MASMean = 89.95484832620784
+RMSE ACE Forecast = 83.88460112300551
+RMSE ACE Posterior= 41.227477460624144
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 36
+
+RMSE STEREO A MASMean = 101.669121987265
+RMSE STEREO A Forecast = 87.47420334266822
+RMSE STEREO A Posterior= 60.90067627506514
+
+RMSE STEREO B MASMean = 124.52671252654372
+RMSE STEREO B Forecast = 114.68979952219688
+RMSE STEREO B Posterior= 68.76385049130134
+
+RMSE ACE MASMean = 94.38072294135519
+RMSE ACE Forecast = 90.90113073313783
+RMSE ACE Posterior= 35.22423472295736
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 37
+
+RMSE STEREO A MASMean = 150.0079283216371
+RMSE STEREO A Forecast = 126.90291364334625
+RMSE STEREO A Posterior= 88.34254858795049
+
+RMSE STEREO B MASMean = 150.40192453220476
+RMSE STEREO B Forecast = 128.73198237176237
+RMSE STEREO B Posterior= 59.18706434544401
+
+RMSE ACE MASMean = 85.55241440295617
+RMSE ACE Forecast = 133.4750346951929
+RMSE ACE Posterior= 38.088710434048984
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 38
+
+RMSE STEREO A MASMean = 95.58373274397691
+RMSE STEREO A Forecast = 143.64675397907038
+RMSE STEREO A Posterior= 59.04304883364078
+
+RMSE STEREO B MASMean = 127.5051627238507
+RMSE STEREO B Forecast = 159.55326041849918
+RMSE STEREO B Posterior= 92.17024778983908
+
+RMSE ACE MASMean = 96.53743158719166
+RMSE ACE Forecast = 86.25470886391837
+RMSE ACE Posterior= 32.8195189604685
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 39
+
+RMSE STEREO A MASMean = 84.04196766865797
+RMSE STEREO A Forecast = 94.50718353712739
+RMSE STEREO A Posterior= 73.27211839165
+
+RMSE STEREO B MASMean = 153.45798004692804
+RMSE STEREO B Forecast = 150.3655463658073
+RMSE STEREO B Posterior= 112.4470132569752
+
+RMSE ACE MASMean = 70.0300925497477
+RMSE ACE Forecast = 79.91891462677047
+RMSE ACE Posterior= 90.70931075999522
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 40
+
+RMSE STEREO A MASMean = 130.7288437166825
+RMSE STEREO A Forecast = 138.32180437956637
+RMSE STEREO A Posterior= 96.41549359593766
+
+RMSE STEREO B MASMean = 112.18437138791813
+RMSE STEREO B Forecast = 127.67175504530515
+RMSE STEREO B Posterior= 111.1618199454684
+
+RMSE ACE MASMean = 75.95366072766288
+RMSE ACE Forecast = 91.01825988362609
+RMSE ACE Posterior= 74.42655618896062
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 41
+
+RMSE STEREO A MASMean = 120.54712270528655
+RMSE STEREO A Forecast = 148.33580850783719
+RMSE STEREO A Posterior= 139.61486161612842
+
+RMSE STEREO B MASMean = 92.46023452023418
+RMSE STEREO B Forecast = 121.1412675416769
+RMSE STEREO B Posterior= 114.43547141887184
+
+RMSE ACE MASMean = 142.5334845329334
+RMSE ACE Forecast = 135.01252305195317
+RMSE ACE Posterior= 92.4126834489934
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 42
+
+RMSE STEREO A MASMean = 127.49040221139481
+RMSE STEREO A Forecast = 111.5804271055884
+RMSE STEREO A Posterior= 91.28576601683898
+
+RMSE STEREO B MASMean = 144.53037701983743
+RMSE STEREO B Forecast = 132.38461458333106
+RMSE STEREO B Posterior= 95.85800857060956
+
+RMSE ACE MASMean = 108.28109710611562
+RMSE ACE Forecast = 97.24233530205645
+RMSE ACE Posterior= 58.508139127767954
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 43
+
+RMSE STEREO A MASMean = 122.72052140119848
+RMSE STEREO A Forecast = 102.0179758160821
+RMSE STEREO A Posterior= 90.78319388784979
+
+RMSE STEREO B MASMean = 137.88181996581824
+RMSE STEREO B Forecast = 123.72560716788128
+RMSE STEREO B Posterior= 101.53457384595553
+
+RMSE ACE MASMean = 89.12458556770656
+RMSE ACE Forecast = 90.97698976873583
+RMSE ACE Posterior= 77.73070365308821
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 44
+
+RMSE STEREO A MASMean = 129.65011334971973
+RMSE STEREO A Forecast = 144.89272096907774
+RMSE STEREO A Posterior= 127.04779984535377
+
+RMSE STEREO B MASMean = 128.104155619207
+RMSE STEREO B Forecast = 136.17411874569
+RMSE STEREO B Posterior= 116.21904553093684
+
+RMSE ACE MASMean = 103.87057143835298
+RMSE ACE Forecast = 108.05442685096881
+RMSE ACE Posterior= 61.03602006150336
+------------------------------------------------------
+

@@ -1,0 +1,539 @@
+------------------------------------------------------
+Window no. 1
+
+RMSE STEREO A MASMean = 151.48031544717264
+RMSE STEREO A Prior = 157.03324718742792
+RMSE STEREO A Posterior = 107.50526690018654
+RMSE STEREO B MASMean = 167.0736462062069
+RMSE STEREO B Prior = 171.05329506874514
+RMSE STEREO B Posterior = 108.81379105150381
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 2
+
+RMSE STEREO A MASMean = 174.72392931026005
+RMSE STEREO A Prior = 188.41484880498248
+RMSE STEREO A Posterior = 122.26602658835355
+RMSE STEREO B MASMean = 171.73640175474057
+RMSE STEREO B Prior = 181.69167236313106
+RMSE STEREO B Posterior = 124.63396838316417
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 3
+
+RMSE STEREO A MASMean = 138.9544457471245
+RMSE STEREO A Prior = 134.46218998749507
+RMSE STEREO A Posterior = 93.49208193578923
+RMSE STEREO B MASMean = 140.57076951214808
+RMSE STEREO B Prior = 132.39121735144508
+RMSE STEREO B Posterior = 105.70061474888789
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 4
+
+RMSE STEREO A MASMean = 155.52282091317673
+RMSE STEREO A Prior = 214.91206848427765
+RMSE STEREO A Posterior = 111.4927510730697
+RMSE STEREO B MASMean = 145.2834354102529
+RMSE STEREO B Prior = 210.19977709452928
+RMSE STEREO B Posterior = 110.48993926889023
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 5
+
+RMSE STEREO A MASMean = 142.64617373283875
+RMSE STEREO A Prior = 163.84121530372002
+RMSE STEREO A Posterior = 98.98602505822556
+RMSE STEREO B MASMean = 126.29186686380322
+RMSE STEREO B Prior = 145.66239631295127
+RMSE STEREO B Posterior = 90.72768318457837
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 6
+
+RMSE STEREO A MASMean = 130.1436808376684
+RMSE STEREO A Prior = 144.77015120566736
+RMSE STEREO A Posterior = 85.04324934059564
+RMSE STEREO B MASMean = 109.13251218525832
+RMSE STEREO B Prior = 133.23009072511607
+RMSE STEREO B Posterior = 77.36720269596879
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 7
+
+RMSE STEREO A MASMean = 119.24962102486612
+RMSE STEREO A Prior = 125.86865865704254
+RMSE STEREO A Posterior = 79.62286284315051
+RMSE STEREO B MASMean = 113.85088360550901
+RMSE STEREO B Prior = 125.56461724874539
+RMSE STEREO B Posterior = 78.17561212961652
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 8
+
+RMSE STEREO A MASMean = 108.86228233291534
+RMSE STEREO A Prior = 144.44456126884145
+RMSE STEREO A Posterior = 75.71835828228899
+RMSE STEREO B MASMean = 94.69633498369684
+RMSE STEREO B Prior = 122.91817825188116
+RMSE STEREO B Posterior = 75.01827926000756
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 9
+
+RMSE STEREO A MASMean = 133.71845669703495
+RMSE STEREO A Prior = 198.60606582276066
+RMSE STEREO A Posterior = 99.8630945626098
+RMSE STEREO B MASMean = 143.41601300474957
+RMSE STEREO B Prior = 191.46012932402658
+RMSE STEREO B Posterior = 61.50363293967912
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 10
+
+RMSE STEREO A MASMean = 154.58028809079065
+RMSE STEREO A Prior = 193.5539992843575
+RMSE STEREO A Posterior = 80.17320719118526
+RMSE STEREO B MASMean = 157.35763585576206
+RMSE STEREO B Prior = 192.38331848855935
+RMSE STEREO B Posterior = 78.98925593083409
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 11
+
+RMSE STEREO A MASMean = 138.04257328109324
+RMSE STEREO A Prior = 177.162649603787
+RMSE STEREO A Posterior = 103.30394299616276
+RMSE STEREO B MASMean = 143.0812183966313
+RMSE STEREO B Prior = 155.36352644556624
+RMSE STEREO B Posterior = 92.07762272890899
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 12
+
+RMSE STEREO A MASMean = 160.77246991189355
+RMSE STEREO A Prior = 162.3870276712444
+RMSE STEREO A Posterior = 117.87437463532987
+RMSE STEREO B MASMean = 167.4034813945276
+RMSE STEREO B Prior = 158.75347441022262
+RMSE STEREO B Posterior = 107.87134867122121
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 13
+
+RMSE STEREO A MASMean = 169.09041158551247
+RMSE STEREO A Prior = 192.59458443863298
+RMSE STEREO A Posterior = 116.99672146450908
+RMSE STEREO B MASMean = 182.15097332629458
+RMSE STEREO B Prior = 208.2538111991071
+RMSE STEREO B Posterior = 123.57527561545018
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 14
+
+RMSE STEREO A MASMean = 166.44512961400497
+RMSE STEREO A Prior = 177.97263190756743
+RMSE STEREO A Posterior = 111.63545104657625
+RMSE STEREO B MASMean = 166.16031377646024
+RMSE STEREO B Prior = 173.2436717112942
+RMSE STEREO B Posterior = 109.9876679725436
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 15
+
+RMSE STEREO A MASMean = 117.35719028113391
+RMSE STEREO A Prior = 209.46943755533312
+RMSE STEREO A Posterior = 84.43436145307139
+RMSE STEREO B MASMean = 125.8607003496644
+RMSE STEREO B Prior = 201.4211935688769
+RMSE STEREO B Posterior = 109.45200743445484
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 16
+
+RMSE STEREO A MASMean = 162.30766522914243
+RMSE STEREO A Prior = 173.96123343047418
+RMSE STEREO A Posterior = 128.65350750337407
+RMSE STEREO B MASMean = 141.86180312184842
+RMSE STEREO B Prior = 182.0339027746177
+RMSE STEREO B Posterior = 132.5177379804662
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 17
+
+RMSE STEREO A MASMean = 155.33278228959605
+RMSE STEREO A Prior = 175.61138483819352
+RMSE STEREO A Posterior = 104.23387252926037
+RMSE STEREO B MASMean = 162.85436897334787
+RMSE STEREO B Prior = 200.6859142592678
+RMSE STEREO B Posterior = 122.07459221442153
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 18
+
+RMSE STEREO A MASMean = 119.391968399891
+RMSE STEREO A Prior = 131.87594214061392
+RMSE STEREO A Posterior = 93.98117420857668
+RMSE STEREO B MASMean = 140.21474585180889
+RMSE STEREO B Prior = 144.86461346196614
+RMSE STEREO B Posterior = 112.73400060679832
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 19
+
+RMSE STEREO A MASMean = 163.30832649119168
+RMSE STEREO A Prior = 185.75875092386707
+RMSE STEREO A Posterior = 103.90699742197407
+RMSE STEREO B MASMean = 200.38424626389397
+RMSE STEREO B Prior = 211.1971403948619
+RMSE STEREO B Posterior = 125.30119614289089
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 20
+
+RMSE STEREO A MASMean = 204.77127850714982
+RMSE STEREO A Prior = 231.59512977246737
+RMSE STEREO A Posterior = 114.05769565809702
+RMSE STEREO B MASMean = 201.44756669992864
+RMSE STEREO B Prior = 224.97927775544596
+RMSE STEREO B Posterior = 116.6893528348861
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 21
+
+RMSE STEREO A MASMean = 214.3311475557952
+RMSE STEREO A Prior = 214.2235028685334
+RMSE STEREO A Posterior = 136.83708768263494
+RMSE STEREO B MASMean = 212.57419151876297
+RMSE STEREO B Prior = 208.38195397587828
+RMSE STEREO B Posterior = 123.46108240845072
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 22
+
+RMSE STEREO A MASMean = 154.03443851104174
+RMSE STEREO A Prior = 192.5454985367848
+RMSE STEREO A Posterior = 111.38021606892346
+RMSE STEREO B MASMean = 135.9513953802299
+RMSE STEREO B Prior = 169.74930845526774
+RMSE STEREO B Posterior = 97.1435874710883
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 23
+
+RMSE STEREO A MASMean = 177.31206349978004
+RMSE STEREO A Prior = 191.51374239609967
+RMSE STEREO A Posterior = 95.82063109373655
+RMSE STEREO B MASMean = 179.7101333362709
+RMSE STEREO B Prior = 164.1281038326098
+RMSE STEREO B Posterior = 96.99539356363188
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 24
+
+RMSE STEREO A MASMean = 175.58377106854354
+RMSE STEREO A Prior = 233.70322546039463
+RMSE STEREO A Posterior = 62.88776569881353
+RMSE STEREO B MASMean = 164.7578235322584
+RMSE STEREO B Prior = 201.14197759971486
+RMSE STEREO B Posterior = 92.76133679621321
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 25
+
+RMSE STEREO A MASMean = 144.0310655230246
+RMSE STEREO A Prior = 174.89810896713323
+RMSE STEREO A Posterior = 55.78981515686553
+RMSE STEREO B MASMean = 159.17752065194404
+RMSE STEREO B Prior = 180.88875735034546
+RMSE STEREO B Posterior = 92.7304975741399
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 26
+
+RMSE STEREO A MASMean = 117.40402983337235
+RMSE STEREO A Prior = 113.379052468952
+RMSE STEREO A Posterior = 104.01319342400822
+RMSE STEREO B MASMean = 123.8891961305747
+RMSE STEREO B Prior = 124.79042392792809
+RMSE STEREO B Posterior = 86.74692670973461
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 27
+
+RMSE STEREO A MASMean = 99.11945107453711
+RMSE STEREO A Prior = 103.65147533650531
+RMSE STEREO A Posterior = 95.46744052043634
+RMSE STEREO B MASMean = 105.4361414100774
+RMSE STEREO B Prior = 114.8124311370572
+RMSE STEREO B Posterior = 72.80254368859113
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 28
+
+RMSE STEREO A MASMean = 98.98327512024981
+RMSE STEREO A Prior = 155.9443572896129
+RMSE STEREO A Posterior = 72.09086162261298
+RMSE STEREO B MASMean = 89.52745046906284
+RMSE STEREO B Prior = 156.14902556140808
+RMSE STEREO B Posterior = 67.28759825797837
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 29
+
+RMSE STEREO A MASMean = 148.39798187014622
+RMSE STEREO A Prior = 139.02435817100775
+RMSE STEREO A Posterior = 79.57629390099181
+RMSE STEREO B MASMean = 125.03993420987017
+RMSE STEREO B Prior = 128.37238903525
+RMSE STEREO B Posterior = 64.94626389005543
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 30
+
+RMSE STEREO A MASMean = 167.25409960236297
+RMSE STEREO A Prior = 207.54013422746476
+RMSE STEREO A Posterior = 64.76460784963919
+RMSE STEREO B MASMean = 123.00257126048582
+RMSE STEREO B Prior = 201.01960126806148
+RMSE STEREO B Posterior = 58.28388365074607
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 31
+
+RMSE STEREO A MASMean = 90.542273520701
+RMSE STEREO A Prior = 106.01994041984703
+RMSE STEREO A Posterior = 70.91274086804877
+RMSE STEREO B MASMean = 98.56391557283213
+RMSE STEREO B Prior = 127.19440858702548
+RMSE STEREO B Posterior = 43.42574231000964
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 32
+
+RMSE STEREO A MASMean = 136.09321332285606
+RMSE STEREO A Prior = 161.79503616789378
+RMSE STEREO A Posterior = 88.06994506879285
+RMSE STEREO B MASMean = 117.90089301823613
+RMSE STEREO B Prior = 133.9177759632504
+RMSE STEREO B Posterior = 76.32671820322658
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 33
+
+RMSE STEREO A MASMean = 140.25171903629686
+RMSE STEREO A Prior = 159.2076482584178
+RMSE STEREO A Posterior = 78.4185752623759
+RMSE STEREO B MASMean = 139.87697673503538
+RMSE STEREO B Prior = 144.8296275585717
+RMSE STEREO B Posterior = 76.93340912135311
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 34
+
+RMSE STEREO A MASMean = 118.32245134672112
+RMSE STEREO A Prior = 118.4772895706682
+RMSE STEREO A Posterior = 69.43371149577774
+RMSE STEREO B MASMean = 113.5191138667304
+RMSE STEREO B Prior = 118.84304197514513
+RMSE STEREO B Posterior = 63.86034086872398
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 35
+
+RMSE STEREO A MASMean = 162.39455936800732
+RMSE STEREO A Prior = 239.16281168372177
+RMSE STEREO A Posterior = 54.96077193436104
+RMSE STEREO B MASMean = 164.09349584517267
+RMSE STEREO B Prior = 249.44038447308432
+RMSE STEREO B Posterior = 45.224634524767204
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 36
+
+RMSE STEREO A MASMean = 101.669121987265
+RMSE STEREO A Prior = 87.47420334266829
+RMSE STEREO A Posterior = 51.501589591301844
+RMSE STEREO B MASMean = 124.52671252654372
+RMSE STEREO B Prior = 114.68979952219694
+RMSE STEREO B Posterior = 78.4396200895664
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 37
+
+RMSE STEREO A MASMean = 150.0079283216371
+RMSE STEREO A Prior = 126.90291364334627
+RMSE STEREO A Posterior = 81.65409895409624
+RMSE STEREO B MASMean = 150.40192453220476
+RMSE STEREO B Prior = 128.73198237176226
+RMSE STEREO B Posterior = 75.92640320783768
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 38
+
+RMSE STEREO A MASMean = 95.58373274397691
+RMSE STEREO A Prior = 143.6467539790706
+RMSE STEREO A Posterior = 68.46731683887901
+RMSE STEREO B MASMean = 127.5051627238507
+RMSE STEREO B Prior = 159.55326041849943
+RMSE STEREO B Posterior = 104.94307420976843
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 39
+
+RMSE STEREO A MASMean = 84.04196766865797
+RMSE STEREO A Prior = 94.50718353712729
+RMSE STEREO A Posterior = 83.40280265520732
+RMSE STEREO B MASMean = 153.45798004692804
+RMSE STEREO B Prior = 150.36554636580718
+RMSE STEREO B Posterior = 127.57572897247715
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 40
+
+RMSE STEREO A MASMean = 130.7288437166825
+RMSE STEREO A Prior = 138.32180437956632
+RMSE STEREO A Posterior = 127.11850403568113
+RMSE STEREO B MASMean = 112.18437138791813
+RMSE STEREO B Prior = 127.67175504530503
+RMSE STEREO B Posterior = 113.17365539134522
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 41
+
+RMSE STEREO A MASMean = 120.54712270528655
+RMSE STEREO A Prior = 148.33580850783719
+RMSE STEREO A Posterior = 102.94742594952187
+RMSE STEREO B MASMean = 92.46023452023418
+RMSE STEREO B Prior = 121.14126754167695
+RMSE STEREO B Posterior = 66.36622245293734
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 42
+
+RMSE STEREO A MASMean = 127.49040221139481
+RMSE STEREO A Prior = 111.58042710558843
+RMSE STEREO A Posterior = 81.90984552539886
+RMSE STEREO B MASMean = 144.53037701983743
+RMSE STEREO B Prior = 132.384614583331
+RMSE STEREO B Posterior = 102.3840010496133
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 43
+
+RMSE STEREO A MASMean = 122.72052140119848
+RMSE STEREO A Prior = 102.01797581608217
+RMSE STEREO A Posterior = 99.55538033113626
+RMSE STEREO B MASMean = 137.88181996581824
+RMSE STEREO B Prior = 123.72560716788134
+RMSE STEREO B Posterior = 95.59571665786352
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 44
+
+RMSE STEREO A MASMean = 129.65011334971973
+RMSE STEREO A Prior = 144.89272096907766
+RMSE STEREO A Posterior = 116.98678588627519
+RMSE STEREO B MASMean = 128.104155619207
+RMSE STEREO B Prior = 136.17411874568995
+RMSE STEREO B Posterior = 88.89393230685003
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 45
+
+RMSE STEREO A MASMean = 122.17217282058915
+RMSE STEREO A Prior = 137.008520999203
+RMSE STEREO A Posterior = 101.30299732551826
+RMSE STEREO B MASMean = 97.5925894398361
+RMSE STEREO B Prior = 112.87011578047694
+RMSE STEREO B Posterior = 69.2487219170238
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 46
+
+RMSE STEREO A MASMean = 130.53296217826306
+RMSE STEREO A Prior = 160.0817072677799
+RMSE STEREO A Posterior = 85.16980693952382
+RMSE STEREO B MASMean = 138.09340785393894
+RMSE STEREO B Prior = 187.92670171249475
+RMSE STEREO B Posterior = 101.45120452902835
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 47
+
+RMSE STEREO A MASMean = 136.1608698970669
+RMSE STEREO A Prior = 149.6066520941263
+RMSE STEREO A Posterior = 97.38615823670919
+RMSE STEREO B MASMean = 131.60506170187927
+RMSE STEREO B Prior = 147.08246879899627
+RMSE STEREO B Posterior = 85.7796441680199
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 48
+
+RMSE STEREO A MASMean = 179.38333788531378
+RMSE STEREO A Prior = 193.26131337974388
+RMSE STEREO A Posterior = 108.10310122071522
+RMSE STEREO B MASMean = 167.05785603267276
+RMSE STEREO B Prior = 177.1825848070241
+RMSE STEREO B Posterior = 99.1179165954633
+------------------------------------------------------
+
+------------------------------------------------------
+Window no. 49
+
+RMSE STEREO A MASMean = 120.89353909102164
+RMSE STEREO A Prior = 147.70190908537168
+RMSE STEREO A Posterior = 101.65516148735018
+RMSE STEREO B MASMean = 182.26387012273443
+RMSE STEREO B Prior = 207.53818738320356
+RMSE STEREO B Posterior = 151.60188606219066
+------------------------------------------------------
+
